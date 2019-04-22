@@ -2,6 +2,7 @@
 
 > A Registration portal for JuniorCodeCracker 2018 in Django 1.11
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8393e94da889476d88c3285b92ed2288)](https://app.codacy.com/app/jayjeetchakraborty25/jcc-registration-portal?utm_source=github.com&utm_medium=referral&utm_content=JayjeetAtGithub/jcc-registration-portal&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f696a53bac8e47e1b5690a80bcd2df92)](https://app.codacy.com/app/JayjeetAtGithub/jcc-registration-portal?utm_source=github.com&utm_medium=referral&utm_content=JayjeetAtGithub/jcc-registration-portal&utm_campaign=Badge_Grade_Dashboard)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/JCC-Registration-Portal-KWOC/Lobby)
